@@ -7,7 +7,7 @@ I'm a Physics Scientist, with the hobby in spare time to program and calculate t
 
 - 💻 MATLAB, Python, CUDA | Spyder, AnaConda
 - 🔧 Monte-Carlo, Stochastic Analysis, PDE
-- 🖥 LabVIEW, C, Model and simulation
+- 🔭 LabVIEW, C, Model and simulation
 
 ## 🤝 Connect with Me
 🔗 Links
