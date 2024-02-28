@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile!
 
+## 🚀 About Me
+I'm a Physics Scientist, with the hobby to program and calculate the financial derivitives by using Python and a lot of data
 <!--
 **Yannik-Linn/Yannik-Linn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
