@@ -27,11 +27,11 @@ I'm a Physics Scientist, with the hobby to program and calculate the financial d
 
 
 ## 🤝 Connect with Me
+🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linyang.de/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linnyang/)
+[![twitter](https://img.shields.io/badge/google-1DA1F2?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=u3bd_FgAAAAJ)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.linyang.de/])
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/linnyang/])
-[![Google](https://img.shields.io/badge/google-1DA1F2?style=for-the-badge&logo=google&logoColor=white))]([(https://scholar.google.com/citations?user=u3bd_FgAAAAJ&hl=en&oi=ao])
 
 
 
