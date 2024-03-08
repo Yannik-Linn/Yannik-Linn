@@ -9,12 +9,7 @@ I'm a Physics Scientist, with the hobby in spare time to program and calculate t
 - 🔧 Monte-Carlo, Stochastic Analysis, PDE
 - 🔭 LabVIEW, C, Model and simulation
 
-## 🤝 Connect with Me
-🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linyang.de/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linnyang/)
-[![twitter](https://img.shields.io/badge/google-1DA1F2?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=u3bd_FgAAAAJ)
 
 
 
@@ -25,6 +20,14 @@ I'm a Physics Scientist, with the hobby in spare time to program and calculate t
 **Yannik-Linn/Yannik-Linn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## 🤝 Connect with Me
+🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linyang.de/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linnyang/)
+[![twitter](https://img.shields.io/badge/google-1DA1F2?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=u3bd_FgAAAAJ)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
